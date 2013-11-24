@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hexapawn</string>
+    <string name="new_game">New Game</string>
+    <string name="skill">AI Skill Level</string>
+    <string name="stats_games">Games played: </string>
+    <string name="stats_white_wins">White victories: </string>
+    <string name="stats_black_wins">Black victories: </string>
+    
+    <string name="white_to_move">White to move.</string>
+    <string name="black_to_move">Black to move.</string>
+    <string name="white_victory">White wins!</string>
+    <string name="black_victory">Black wins!</string>
+    <string name="illegal_move">Illegal move!</string>
+
+    <string name="instructions_title">Welcome to Hexapawn.</string>
+    <string name="instructions_message">
+        Hexapawn is a game invented by Martin Gardner,
+        designed to be played against a mechanical computer
+        built out of matchboxes and jelly beans.
+        This game is not meant to be fun, but rather to
+        demonstrate the computer\'s ability to \"learn\" to play
+        the game well over time.\n\n-
+        Pawns move the same way as in chess &#8212; 
+        forward one square, or capture diagonally.\n\n-
+        A player wins by advancing a pawn to the opponent\'s home row,
+        capturing all opponent pawns, or blocking all opponent
+        pawns from making a move.
+	</string>
+
+    <string name="menu_reset_ai">Reset AI Skill</string>
+    <string name="menu_reset_stats">Reset Game Statistics</string>
+    <string name="menu_instructions">Instructions</string>
+    <string name="menu_exit">Exit</string>
+    
+</resources>

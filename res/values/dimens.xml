@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<dimen name="status_size">20sp</dimen>
+	<dimen name="skill_size">12sp</dimen>
+	<dimen name="skill_padding">3dp</dimen>
+</resources>
